@@ -39,9 +39,9 @@ Publications
   <br />**Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu
   <br />*The 48th International Symposium on Computer Architecture (**ISCA**), Secure and Private Systems for Machine Learning Workshop, 2021*
  
- 
- Selected Awards and Honors
- ======
+
+Selected Awards and Honors
+======
  
  - Full Postgraduate Studentship, The Chinese University of Hong Kong.
  - Outstanding Master Graduate, Tsinghua University (Top 2%).
