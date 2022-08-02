@@ -21,7 +21,7 @@ News
 Selected Publications
 =====
 - [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)
-  //**Yijun Yang**, Ruiyuan Gao, Qiang Xu
+  <br />**Yijun Yang**, Ruiyuan Gao, Qiang Xu
   
   European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022
 
