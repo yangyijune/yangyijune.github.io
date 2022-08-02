@@ -22,17 +22,12 @@ Selected Publications
 =====
 - [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)
   <br />**Yijun Yang**, Ruiyuan Gao, Qiang Xu
-  
-  European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022
+  <br />European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022
 
 - [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650)
-  
-  **Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu
-  
-  Network and Distributed System Security Synposium (**NDSS**), San Diego, California, USA, 2022
+  <br />**Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu
+  <br />Network and Distributed System Security Synposium (**NDSS**), San Diego, California, USA, 2022
 
 - [MixDefense: A Defense-in-Depth Framework for Adversarial Example Detection Based on Statistical and Semantic Analysis](https://arxiv.org/abs/2104.10076)
-
-  **Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu
-  
-  The 48th International Symposium on Computer Architecture (**ISCA**), Secure and Private Systems for Machine Learning Workshop, 2021
+  <br />**Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu
+  <br />The 48th International Symposium on Computer Architecture (**ISCA**), Secure and Private Systems for Machine Learning Workshop, 2021
