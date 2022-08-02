@@ -16,9 +16,15 @@ News
 - 🕘 2022-07 [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446) has been accepted to **ECCV2022** 😃
 - 🕘 2021-12 [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650) has been accepted to **NDSS2022** 👏 (oral, acceptance rate: 14.06%)
 
+Experience
+======
+**_Research Intern_**
+Mar. 2022 - Present Foundation Model, Megvii, Beijing, China
 
+**_Research Intern_**
+Mar. 2020 - June. 2020, 2012 Lab, HUAWEI, Shenzhen, China
 
-Selected Publications
+Publications
 =====
 - [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)
   <br />**Yijun Yang**, Ruiyuan Gao, Qiang Xu
@@ -32,3 +38,13 @@ Selected Publications
 - [MixDefense: A Defense-in-Depth Framework for Adversarial Example Detection Based on Statistical and Semantic Analysis](https://arxiv.org/abs/2104.10076)
   <br />**Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu
   <br />*The 48th International Symposium on Computer Architecture (**ISCA**), Secure and Private Systems for Machine Learning Workshop, 2021*
+ 
+ Selected Awards and Honors
+ =====
+ - Full Postgraduate Studentship, The Chinese University of Hong Kong.
+ - Outstanding Master Graduate, Tsinghua University (Top 2%).
+ - Outstanding Thesis Award, Tsinghua University (Top 3%).
+ - Guanghua Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
+ - Lam Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
+ 
+ 
