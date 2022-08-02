@@ -25,7 +25,7 @@ Experience
 <br />Mar. 2020 - June. 2020, 2012 Lab, HUAWEI, Shenzhen, China
 
 Publications
-=====
+======
 - [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)
   <br />**Yijun Yang**, Ruiyuan Gao, Qiang Xu
   <br />*European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022*
@@ -40,7 +40,7 @@ Publications
   <br />*The 48th International Symposium on Computer Architecture (**ISCA**), Secure and Private Systems for Machine Learning Workshop, 2021*
  
  Selected Awards and Honors
- =====
+ ======
  - Full Postgraduate Studentship, The Chinese University of Hong Kong.
  - Outstanding Master Graduate, Tsinghua University (Top 2%).
  - Outstanding Thesis Award, Tsinghua University (Top 3%).
