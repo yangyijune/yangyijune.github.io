@@ -14,7 +14,7 @@ I am a Ph.D. student of [CUhk REliable Laboratory (CURE)](https://cure-lab.githu
 News
 ======
 - 2022-07 [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446) has been accepted to ECCV2022!
-- 2021-04 [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650) has been accepted to NDSS2022!(oral, acceptance rate: 14.06%)
+- 2021-04 [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650) has been accepted to NDSS2022! (oral, acceptance rate: 14.06%)
 
 Getting started
 ======
