@@ -19,10 +19,10 @@ News
 Experience
 ======
 **_Research Intern_**
-<br />Mar. 2022 - Present, Foundation Model, Megvii, Beijing, China
+<br />Mar. 2022 - Present, Foundation Model, Megvii, Beijing, China 🇨🇳
 
 **_Research Intern_**
-<br />Mar. 2020 - June. 2020, 2012 Lab, HUAWEI, Shenzhen, China
+<br />Mar. 2020 - June. 2020, 2012 Lab, HUAWEI, Shenzhen, China 🇨🇳
 
 Publications
 ======
@@ -43,10 +43,10 @@ Publications
 Selected Awards and Honors
 ======
  
- - Full Postgraduate Studentship, The Chinese University of Hong Kong.
- - Outstanding Master Graduate, Tsinghua University (Top 2%).
- - Outstanding Thesis Award, Tsinghua University (Top 3%).
- - Guanghua Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
- - Lam Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
+ - 🏆 Full Postgraduate Studentship, The Chinese University of Hong Kong.
+ - 🏆 Outstanding Master Graduate, Tsinghua University (Top 2%).
+ - 🏆 Outstanding Thesis Award, Tsinghua University (Top 3%).
+ - 🏆 Guanghua Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
+ - 🏆 Lam Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
  
  
