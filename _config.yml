@@ -14,7 +14,7 @@ description              : &description "Ph.D. Candidate"
 url                      : https://yangyijune.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangyijune.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -84,7 +84,7 @@ author:
   avatar           : "yijunyang.png"
   bio              : "Enrich the life today. Yesterday is history，and tomorrow is mystery."
   location         : "Hong Kong, China"
-  employer         :
+  employer         : "CSE, CUHK"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GZDKIUMAAAAJ&hl=zh-CN"
   email            :  yjyang@cse.cuhk.edu.hk
