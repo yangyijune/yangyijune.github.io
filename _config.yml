@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Yijun Yang"
-  avatar           : "profile.png"
+  avatar           : "yijunyang.jpeg"
   bio              : "Enrich the life today. Yesterday is history，and tomorrow is mystery."
   location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GZDKIUMAAAAJ&hl=zh-CN"
   email            :  yjyang@cse.cuhk.edu.hk
   researchgate     : "https://www.researchgate.net/profile/Yijun-Yang-17"
