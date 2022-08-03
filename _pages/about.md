@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*I am a third year Ph.D. student of [CUhk REliable Laboratory (CURE)](https://cure-lab.github.io/), in the Department of [Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), **The Chinese University of Hong Kong**, supervised by [Prof. Qiang Xu](https://scholar.google.com/citations?user=eSiKPqUAAAAJ&hl=zh-CN). Before that, I got my M.Phil of EE from **Tsinghua University** in 2019. My current research interests span the fields of AI security and Deep Learning, including Adversarial Example defense, Out of distributation detection, Deep Generative Models and Self-supervisied learning.* 
+*I am a third year Ph.D. student of [CUhk REliable Laboratory (CURE)](https://cure-lab.github.io/), in the Department of [Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), **The Chinese University of Hong Kong**, supervised by [Prof. Qiang Xu](https://scholar.google.com/citations?user=eSiKPqUAAAAJ&hl=zh-CN). Before that, I got my M.Phil of EE from **Tsinghua University** in 2019. My current research interests span the fields of AI security and Deep Learning, including Adversarial Example defense, Out of distributation detection, Deep Generative Models and Self-supervised learning.* 
 
 
 
@@ -43,10 +43,10 @@ Publications
 Selected Awards and Honors
 ======
  
- - 🏆 Full Postgraduate Studentship, The Chinese University of Hong Kong.
- - 🏆 Outstanding Master Graduate, Tsinghua University (Top 2%).
- - 🏆 Outstanding Thesis Award, Tsinghua University (Top 3%).
- - 🏆 Guanghua Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
- - 🏆 Lam Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
+  🏆 Full Postgraduate Studentship, The Chinese University of Hong Kong.
+  <br />🏆 Outstanding Master Graduate, Tsinghua University (Top 2%).
+  <br />🏆 Outstanding Thesis Award, Tsinghua University (Top 3%).
+  <br />🏆 Guanghua Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
+  <br />🏆 Lam Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
  
  
