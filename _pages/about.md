@@ -13,7 +13,7 @@ redirect_from:
 
 News
 ======
-- 🕘 2022-08 [Be Your Own Neighborhood: Detecting Adversarial Example by the Neighborhood Relations Built on Self-Supervised Learning] has been accepted to **ECCV2022 AROW Workshp**
+- 🕘 2022-08 [Be Your Own Neighborhood: Detecting Adversarial Example by the Neighborhood Relations Built on Self-Supervised Learning](https://eccv22-arow.github.io/) has been accepted to **ECCV2022 AROW Workshp** 👍
 - 🕘 2022-07 [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446) has been accepted to **ECCV2022** 😃
 - 🕘 2021-12 [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650) has been accepted to **NDSS2022** 👏 (oral, acceptance rate: 14.06%)
 
