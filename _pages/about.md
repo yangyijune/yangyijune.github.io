@@ -27,12 +27,14 @@ Experience
 
 Publications
 ======
-- [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)
+- [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446.pdf)
   <br />**Yijun Yang**, Ruiyuan Gao, Qiang Xu
   <br />*European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022*
   <br />[code](https://github.com/cure-lab/MOODCat)
-
-- [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650)
+- [Be Your Own Neighborhood: Detecting Adversarial Example by the Neighborhood Relations Built on Self-Supervised Learning](/files/ECCV2022_workshop.pdf)
+  <br />Zhiyuan He,**Yijun Yang***, Pin-Yu Chen, Qiang Xu, Tsung-Yi Ho
+  <br />*European Conference on Computer Vision Workshop (**ECCV AWOR**), Tel Aviv, Israel, 2022*
+- [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650.pdf)
   <br />**Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu
   <br />*Network and Distributed System Security Synposium (**NDSS**), San Diego, California, USA, 2022*
   <br />[code](https://github.com/cure-lab/ContraNet)
