@@ -45,8 +45,8 @@ Publications
 
 Selected Awards and Honors
 ======
- 
-  🏆 Full Postgraduate Studentship, The Chinese University of Hong Kong.
+ 🏆 ECCV'22 Complimentary Online Registration Award.
+  <br />🏆 Full Postgraduate Studentship, The Chinese University of Hong Kong.
   <br />🏆 Outstanding Master Graduate, Tsinghua University (Top 2%).
   <br />🏆 Outstanding Thesis Award, Tsinghua University (Top 3%).
   <br />🏆 Guanghua Scholarship for Advancement in Academic Work, Tsinghua University (Top 5%).
