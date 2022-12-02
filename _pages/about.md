@@ -13,7 +13,7 @@ redirect_from:
 
 News
 ======
-- 🕘 2022-12 International Algorithm Case Competition -- Adversarial Defence Competition, 2nd place 🏆
+- 🕘 2022-12 [International Algorithm Case Competition -- Adversarial Defence Competition](http://106.75.138.120/), 2nd place 🏆
 - 🕘 2022-08 [Be Your Own Neighborhood: Detecting Adversarial Example by the Neighborhood Relations Built on Self-Supervised Learning](/files/ECCV2022_workshop.pdf) has been accepted to **ECCV2022 AROW Workshop** 👍
 - 🕘 2022-07 [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446) has been accepted to **ECCV2022** 😃
 - 🕘 2021-12 [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650) has been accepted to **NDSS2022** 👏 (oral, acceptance rate: 14.06%)
