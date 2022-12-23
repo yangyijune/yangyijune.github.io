@@ -16,7 +16,7 @@ News
 - 🕘 2022-12 [International Algorithm Case Competition -- Adversarial Defence Competition](http://106.75.138.120/), 2nd place 🏆
 - 🕘 2022-08 [Be Your Own Neighborhood: Detecting Adversarial Example by the Neighborhood Relations Built on Self-Supervised Learning](/files/ECCV2022_workshop.pdf) has been accepted to **ECCV2022 AROW Workshop** 👍
 - 🕘 2022-07 [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446) has been accepted to **ECCV2022** 😃
-- 🕘 2021-12 [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650) has been accepted to **NDSS2022** 👏 (oral, acceptance rate: 14.06%)
+- 🕘 2021-12 [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650) has been accepted to **NDSS2022 CCF-A** 👏 (oral, acceptance rate: 14.06%)
 
 Experience
 ======
@@ -37,7 +37,7 @@ Publications
   <br />*European Conference on Computer Vision Workshop (**ECCV AWOR**), Tel Aviv, Israel, 2022*
 - [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650.pdf)
   <br />**Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu
-  <br />*Network and Distributed System Security Synposium (**NDSS**), San Diego, California, USA, 2022*
+  <br />*Network and Distributed System Security Synposium (**NDSS CCF-A**), San Diego, California, USA, 2022*
   <br />[code](https://github.com/cure-lab/ContraNet)
 - [MixDefense: A Defense-in-Depth Framework for Adversarial Example Detection Based on Statistical and Semantic Analysis](https://arxiv.org/abs/2104.10076)
   <br />**Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu
