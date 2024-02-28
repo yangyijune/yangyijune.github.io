@@ -22,7 +22,7 @@ News
 Experience
 ======
 **_Research Intern_**
-<br />Mar. 2022 - Present, Foundation Model, Megvii, Beijing, China 🇨🇳
+<br />Mar. 2022 - June. 2023, Foundation Model, Megvii, Beijing, China 🇨🇳
 
 **_Research Intern_**
 <br />Mar. 2020 - June. 2020, 2012 Lab, HUAWEI, Shenzhen, China 🇨🇳
