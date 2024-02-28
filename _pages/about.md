@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*I am a third-year Ph.D. student of [CUhk REliable Laboratory (CURE)](https://cure-lab.github.io/), in the Department of [Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), **The Chinese University of Hong Kong**, supervised by [Prof. Qiang Xu](https://scholar.google.com/citations?user=eSiKPqUAAAAJ&hl=zh-CN). Our lab is focused on AI security and AI robustness-related tasks. Before that, I got my M. Phil of EE from **Tsinghua University** in 2019. My current research interests span the fields of AI security and Diffusion models, including Robust Stable Diffusion against
-Adversarial Attacks and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts.* 
+*I am a final-year Ph.D. student of [CUhk REliable Laboratory (CURE)](https://cure-lab.github.io/), in the Department of [Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), **The Chinese University of Hong Kong**, supervised by [Prof. Qiang Xu](https://scholar.google.com/citations?user=eSiKPqUAAAAJ&hl=zh-CN). Our lab is focused on AI security. Before that, I got my M. Phil of EE from **Tsinghua University** in 2019. My current research interests span the fields of AIGC security, including red-teaming AICG services and designing safety countermeasures to counter potential threats.* 
 
 
 
 News
 ======
+
 - 🕘 2022-12 [International Algorithm Case Competition -- Adversarial Defence Competition](http://106.75.138.120/), 2nd place 🏆
 - 🕘 2022-08 [Be Your Own Neighborhood: Detecting Adversarial Example by the Neighborhood Relations Built on Self-Supervised Learning](/files/ECCV2022_workshop.pdf) has been accepted to **ECCV2022 AROW Workshop** 👍
 - 🕘 2022-07 [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446) has been accepted to **ECCV2022** 😃
