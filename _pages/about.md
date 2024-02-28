@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*I am a final-year Ph.D. student of [CUhk REliable Laboratory (CURE)](https://cure-lab.github.io/), in the Department of [Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), **The Chinese University of Hong Kong**, supervised by [Prof. Qiang Xu](https://scholar.google.com/citations?user=eSiKPqUAAAAJ&hl=zh-CN). Our lab is focused on AI security. Before that, I got my M. Phil of EE from **Tsinghua University** in 2019. My current research interests span the fields of AIGC security, including red-teaming AICG services and designing safety countermeasures to counter potential threats.* 
+*I am a final-year Ph.D. student of [CUhk REliable Laboratory (CURE)](https://cure-lab.github.io/), in the Department of [Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), **The Chinese University of Hong Kong**, supervised by [Prof. Qiang Xu](https://scholar.google.com/citations?user=eSiKPqUAAAAJ&hl=zh-CN). Our lab is focused on AI security. Before that, I got my M. Phil of EE from **Tsinghua University** in 2019. My current research interests span the fields of AIGC security, including red-teaming AICG services and designing safety countermeasures to counter potential threats. I am currently exploring new career opportunities and am open to discussing potential roles. Please feel free to contact me should my expertise align with your organizational needs. I look forward to the possibility of collaborating with innovative teams and contributing to exciting projects.* 
 
 
 
 News
 ======
-
+- 🕘 2024-02 [MMA-Diffusion: MultiModal Attack on Diffusion Models](https://arxiv.org/abs/2311.17516) has been accepted to **CVPR2024 CCF-A** 👏 
 - 🕘 2022-12 [International Algorithm Case Competition -- Adversarial Defence Competition](http://106.75.138.120/), 2nd place 🏆
 - 🕘 2022-08 [Be Your Own Neighborhood: Detecting Adversarial Example by the Neighborhood Relations Built on Self-Supervised Learning](/files/ECCV2022_workshop.pdf) has been accepted to **ECCV2022 AROW Workshop** 👍
 - 🕘 2022-07 [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446) has been accepted to **ECCV2022** 😃
@@ -46,7 +46,7 @@ Publications
 
 Services
 ======
-I serve as reviewer of conferences: **ICASSP**, **NeurIPS**.
+I serve as a reviewer of conferences: **CVPR**, **NeurIPS**, **ICLR**, **ICML**.
 
 Selected Awards and Honors
 ======
