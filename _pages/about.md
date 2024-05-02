@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+- 🕘 2024-05 [ Be Your Own Neighborhood: Detecting Adversarial Examples by the Neighborhood Relations Built on Self-Supervised Learning](https://arxiv.org/abs/2209.00005) has been accepted to **ICML2024 CCF-A** 👏 
 - 🕘 2024-02 [MMA-Diffusion: MultiModal Attack on Diffusion Models](https://arxiv.org/abs/2311.17516) has been accepted to **CVPR2024 CCF-A** 👏 
 - 🕘 2022-12 [International Algorithm Case Competition -- Adversarial Defence Competition](http://106.75.138.120/), 2nd place 🏆
 - 🕘 2022-08 [Be Your Own Neighborhood: Detecting Adversarial Example by the Neighborhood Relations Built on Self-Supervised Learning](/files/ECCV2022_workshop.pdf) has been accepted to **ECCV2022 AROW Workshop** 👍
