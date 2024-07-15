@@ -48,7 +48,7 @@ Publications
 
 Services
 ======
-I serve as a reviewer of conferences: **CVPR**, **NeurIPS**, **ICLR**, **ICML**.
+I serve as a reviewer of conferences/journals: **CVPR**, **NeurIPS**, **ICLR**, **ICML**, **Neurocomputing**.
 
 Selected Awards and Honors
 ======
