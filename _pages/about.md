@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*I obtain my Ph.D degree from the Department of [Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), **The Chinese University of Hong Kong**, supervised by [Prof. Qiang Xu](https://scholar.google.com/citations?user=eSiKPqUAAAAJ&hl=zh-CN). Before that, I got my M. Phil of EE from **Tsinghua University** in 2019. My current research interests span the fields of AIGC security, including red-teaming AICG services and designing safety countermeasures to counter potential threats. I am currently exploring new career opportunities and am open to discussing potential roles. Please feel free to contact me should my expertise align with your organizational needs. I look forward to the possibility of collaborating with innovative teams and contributing to exciting projects.* 
+ 
+I am currently a senior researcher at Dept. CSE, Tsinghua University. My research interests lie in AI safety, focusing on red-teaming LLM-based agents, exploring large language models (LLMs) and vision-language models (VLMs), and designing innovative safety countermeasures to address potential threats.
+
+<p style="color:red;">I'm seeking self-motivated research interns to join our AI safety team. If you're interested, please reach out!</p>
 
 
 
