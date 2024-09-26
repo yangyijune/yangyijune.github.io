@@ -20,10 +20,7 @@ News
 - 🕘 2024-05-27 I pass my Ph.D oral defense!👏🌻🌹
 - 🕘 2024-05 [ Be Your Own Neighborhood: Detecting Adversarial Examples by the Neighborhood Relations Built on Self-Supervised Learning](https://arxiv.org/abs/2209.00005) has been accepted to **ICML2024 CCF-A** 👏 
 - 🕘 2024-02 [MMA-Diffusion: MultiModal Attack on Diffusion Models](https://arxiv.org/abs/2311.17516) has been accepted to **CVPR2024 CCF-A** 👏 
-- 🕘 2022-12 [International Algorithm Case Competition -- Adversarial Defence Competition](http://106.75.138.120/), 2nd place 🏆
-- 🕘 2022-08 [Be Your Own Neighborhood: Detecting Adversarial Example by the Neighborhood Relations Built on Self-Supervised Learning](/files/ECCV2022_workshop.pdf) has been accepted to **ECCV2022 AROW Workshop** 👍
-- 🕘 2022-07 [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446) has been accepted to **ECCV2022** 😃
-- 🕘 2021-12 [What You See in Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction](https://arxiv.org/abs/2201.09650) has been accepted to **NDSS2022 CCF-A** 👏 (oral, acceptance rate: 14.06%)
+
 
 Experience
 ======
