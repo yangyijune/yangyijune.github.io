@@ -17,7 +17,7 @@ I am currently a senior researcher at Dept. CSE, Tsinghua University. My researc
 News
 ======
 - 🕘 2024-09-26 [GuardT2I: Defending Text-to-Image Models from Adversarial Prompts](https://arxiv.org/pdf/2403.01446) has been accepted to **NeurIPS2024 CCF-A** 😃
-- 🕘 2024-05-27 I pass my Ph.D oral defense!👏🌻🌹
+- 🕘 2024-05-27 I pass my Ph.D oral defense! 👏🌻🌹
 - 🕘 2024-05 [ Be Your Own Neighborhood: Detecting Adversarial Examples by the Neighborhood Relations Built on Self-Supervised Learning](https://arxiv.org/abs/2209.00005) has been accepted to **ICML2024 CCF-A** 👏 
 - 🕘 2024-02 [MMA-Diffusion: MultiModal Attack on Diffusion Models](https://arxiv.org/abs/2311.17516) has been accepted to **CVPR2024 CCF-A** 👏 
 
