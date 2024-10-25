@@ -7,11 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
-I am currently a senior researcher at Dept. CSE, Tsinghua University. My research interests lie in AI safety, focusing on red-teaming LLM-based agents, exploring large language models (LLMs) and vision-language models (VLMs), and designing innovative safety countermeasures to address potential threats.
-
-<p style="color:red;">I'm seeking self-motivated research interns to join our AI safety team. If you're interested, please reach out!</p>
-
 
 
 News
