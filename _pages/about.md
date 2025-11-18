@@ -11,6 +11,7 @@ redirect_from:
 
 News
 ======
+- 🕘 2025-11-15 Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models has been accepted to **AAAI2026 CCF-A Oral** 👏 
 - 🕘 2024-09-26 [GuardT2I: Defending Text-to-Image Models from Adversarial Prompts](https://arxiv.org/pdf/2403.01446) has been accepted to **NeurIPS2024 CCF-A** 😃
 - 🕘 2024-05-27 I pass my Ph.D oral defense! 👏🌻🌹
 - 🕘 2024-05 [ Be Your Own Neighborhood: Detecting Adversarial Examples by the Neighborhood Relations Built on Self-Supervised Learning](https://arxiv.org/abs/2209.00005) has been accepted to **ICML2024 CCF-A** 👏 
