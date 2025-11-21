@@ -11,7 +11,7 @@ redirect_from:
 
 News
 ======
-- 🕘 2025-11-15 Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models has been accepted to **AAAI2026 CCF-A Oral** 👏
+- 🕘 2025-11-15 [Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models](https://arxiv.org/pdf/2511.16110) has been accepted to **AAAI2026 CCF-A Oral** 👏
 - 🕘 2025-11-15 [CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.70047) has been published in **IET Computer Vision CCF-C** 😃 Congrats Wenhao! 👏 
 - 🕘 2024-09-26 [GuardT2I: Defending Text-to-Image Models from Adversarial Prompts](https://arxiv.org/pdf/2403.01446) has been accepted to **NeurIPS2024 CCF-A** 😃
 - 🕘 2024-05-27 I passed my Ph.D oral defense! 👏🌻🌹
