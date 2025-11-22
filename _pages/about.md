@@ -46,7 +46,7 @@ Publications
   <br />*Conference on Neural Information Processing Systems (**NeurIPS 2024**, CCF-A)*
 
 - [Be Your Own Neighborhood: Detecting Adversarial Examples by the Neighborhood Relations Built on Self-Supervised Learning](https://arxiv.org/abs/2209.00005)  
-  <br />Zhiyuan He\∗, **Yijun Yang**\∗, Pin-yu Chen, Qiang Xu, and Tsung-Yi Ho.   
+  <br />Zhiyuan He\*, **Yijun Yang**\*, Pin-yu Chen, Qiang Xu, and Tsung-Yi Ho.   
   <br />*International Conference on Machine Learning (**ICML 2024**, CCF-A)*
   
 - [CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.70047)  
