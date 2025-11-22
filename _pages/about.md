@@ -34,19 +34,19 @@ Publications
 ## 📚 Publications
 
 - [Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models](https://arxiv.org/pdf/2511.16110)  
-  <br />**Yijun Yang**\#\*, Lichao Wang\*, Jianping Zhang, Chi Harold Liu, Lanqing Hong, Qiang Xu\#  
-  <br />*AAAI Conference on Artificial Intelligence (**AAAI 2026**, CCF-A, Oral)*
+  <br/>**Yijun Yang**\#\*, Lichao Wang\*, Jianping Zhang, Chi Harold Liu, Lanqing Hong, Qiang Xu\#  
+  <br/>*AAAI Conference on Artificial Intelligence (**AAAI 2026**, CCF-A, Oral)*
 
 - [MMA-Diffusion: MultiModal Attack on Diffusion Models](https://arxiv.org/abs/2311.17516)  
-  <br />**Yijun Yang**, Ruiyuan Gao, Yu Li, Qiuxia Lai, Qiang Xu  
+  <br />**Yijun Yang**, Ruiyuan Gao, Xiaosen Wang, Tsung-Yi Ho, Nan Xu, Qiang Xu  
   <br />*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2024**, CCF-A)*
 
 - [GuardT2I: Defending Text-to-Image Models from Adversarial Prompts](https://arxiv.org/pdf/2403.01446)  
-  <br />Ruiyuan Gao, Qiang Xu, Xiao Yang, **Yijun Yang**, Jianyuan Zhong  
+  <br />**Yijun Yang**, Ruiyuan Gao, Xiao Yang, Jianyuan Zhong, Qiang Xu  
   <br />*Conference on Neural Information Processing Systems (**NeurIPS 2024**, CCF-A)*
 
 - [Be Your Own Neighborhood: Detecting Adversarial Examples by the Neighborhood Relations Built on Self-Supervised Learning](https://arxiv.org/abs/2209.00005)  
-  <br />**Yijun Yang**, Ruiyuan Gao, Qiang Xu  
+  <br />Zhiyuan He\∗, **Yijun Yang**\∗, Pin-yu Chen, Qiang Xu, and Tsung-Yi Ho.   
   <br />*International Conference on Machine Learning (**ICML 2024**, CCF-A)*
   
 - [CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.70047)  
