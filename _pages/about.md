@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m always happy to explore new collaborations. If you’re interested in working together, feel free to reach out at **ayyj.jun@gmail.com** — I’d love to connect!
+I'm now a researcher@ByteDance! I’m always happy to explore new collaborations. If you’re interested in working together, feel free to reach out at **ayyj.jun@gmail.com** — I’d love to connect!
 
 News
 ======
@@ -19,14 +19,6 @@ News
 - 🕘 2024-05 [ Be Your Own Neighborhood: Detecting Adversarial Examples by the Neighborhood Relations Built on Self-Supervised Learning](https://arxiv.org/abs/2209.00005) has been accepted to **ICML2024 CCF-A** 👏 
 - 🕘 2024-02 [MMA-Diffusion: MultiModal Attack on Diffusion Models](https://arxiv.org/abs/2311.17516) has been accepted to **CVPR2024 CCF-A** 👏 
 
-
-Experience
-======
-**_Research Intern_**
-<br />Mar. 2022 - June. 2023, Foundation Model, Megvii, Beijing, China 🇨🇳
-
-**_Research Intern_**
-<br />Mar. 2020 - June. 2020, 2012 Lab, HUAWEI, Shenzhen, China 🇨🇳
 
 Publications
 ======
