@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a researcher@ByteDance! I’m always happy to explore new collaborations. If you’re interested in working together, feel free to reach out at **ayyj.jun@gmail.com** — I’d love to connect!
+I’m always happy to explore new collaborations. If you’re interested in working together, feel free to reach out at **ayyj.jun@gmail.com** — I’d love to connect!
 
 News
 ======
