@@ -19,7 +19,7 @@ Our mission is twofold:
 
 **2. Translate research into real-world impact** by solving challenging industrial safety problems.
 
-The group is part of the ** Inspur AI School at Shandong University**, benefiting from a strong academic environment and extensive industry collaborations.
+The group is part of the **Inspur AI School at Shandong University**, benefiting from a strong academic environment and extensive industry collaborations.
 
 
 If you like problems that live both in papers and in deployed systems, I'd love to hear from you 😃.
