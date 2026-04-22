@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yijun Yang"
+title: "Working on the Safety of frontier AI. Looking for students who's like to join."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
