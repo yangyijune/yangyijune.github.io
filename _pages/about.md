@@ -24,8 +24,6 @@ The group is part of the **Inspur AI School at Shandong University**, benefiting
 
 If you like problems that live both in papers and in deployed systems, I'd love to hear from you 😃.
 
-I’m always happy to explore new collaborations. If you’re interested in working together, feel free to reach out at **ayyj.jun@gmail.com** — I’d love to connect!
-
 ---
  
 ## Open Positions
