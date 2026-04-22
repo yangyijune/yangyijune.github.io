@@ -33,7 +33,7 @@ If you like problems that live both in papers and in deployed systems, I'd love 
 | **PhD** — 博士研究生 | **For 2027** | Strong path to top-venue papers|
 | **Postdoc** — 博士后(特别资助) | **Open until filled** | Rolling review — apply anytime |
 | **Master's** — 硕士研究生 | **For 2027** | Strong path to top-venue papers &amp; PhD admission &amp; Top-tier companies |
-| **Bachelor's** — 本科生科研 | **Anytime** | Open to SDU &amp; visiting undergrads; thesis supervision available |
+| **Bachelor's** — 本科生科研 | **Anytime** 👍🏻| Open to SDU &amp; visiting undergrads; thesis supervision available |
  
 ---
 
