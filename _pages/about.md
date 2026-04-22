@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Working on the Safety of frontier AI. Looking for students who's like to join."
+title: "Working on the Safety of Frontier AI. Looking for students who's like to join."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,85 @@ redirect_from:
   - /about.html
 ---
 
+## 🚀 Now recruiting — 2027 intake &amp; rolling
+
+I'm going to join the **School of Artificial Intelligence, Shandong University** as a  Professor (tenured), and I'm starting a new research group that lies at the intersection of **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, **AI Agents**, and **Generative Models** (Text-to-Image / Text-to-Video), with a strong emphasis on **AI safety**, **alignment**, **robustness**, and **responsible deployment**.
+
+
+Our mission is twofold:
+
+**1. Advance fundamental research** in trustworthy and safe foundation models.
+
+**2. Translate research into real-world impact** by solving challenging industrial safety problems.
+
+The group is part of the ** Inspur AI School at Shandong University**, benefiting from a strong academic environment and extensive industry collaborations.
+
+
+If you like problems that live both in papers and in deployed systems, I'd love to hear from you 😃.
+
 I’m always happy to explore new collaborations. If you’re interested in working together, feel free to reach out at **ayyj.jun@gmail.com** — I’d love to connect!
+
+---
+ 
+## Open Positions
+ 
+| Role | Timing | Notes |
+| :--- | :--- | :--- |
+| **PhD** — 博士研究生 | **For 2027** | Strong path to top-venue papers|
+| **Postdoc** — 博士后(特别资助) | **Open until filled** | Rolling review — apply anytime |
+| **Master's** — 硕士研究生 | **For 2027** | Strong path to top-venue papers &amp; PhD admission &amp; Top-tier companies |
+| **Bachelor's** — 本科生科研 | **Anytime** | Open to SDU &amp; visiting undergrads; thesis supervision available |
+ 
+---
+
+## Research Directions
+ 
+- **LLM Safety** — jailbreaks, alignment, red-teaming
+- **VLM Safety** — multimodal &amp; transfer attacks
+- **Agent Safety** — tool-use risks, guardrails
+- **Text-to-Image Safety** — adversarial prompts, defenses
+- **Video Generation Safety** — deepfake provenance
+- **Open-ended** — bring your own idea 💡💡💡 🤩
+---
+
+## How to Apply
+ 
+Send a short email to **[ayyj.jun@gmail.com](mailto:ayyj.jun@gmail.com?subject=%5BApplicant%5D%20Prospective%20Student)** including:
+ 
+1. A short cover email — who you are, what position you want to apply for 
+2. Your CV (中文 or English)
+3. Transcripts (unofficial PDFs are fine at first pass)
+4. *(Optional)* One paragraph on a research idea you'd want to try here
+
+
+About 
+=====
+
+## Education
+
+I received my **Ph.D. in Computer Science** from  
+**The Chinese University of Hong Kong (CUHK)**.
+
+Before that, I obtained my **M.S. degree in Integrated Circuits** from  
+**Tsinghua University**, where I developed a strong background in hardware systems and engineering thinking.
+
+I completed my **B.Eng. degree in Automation** at  
+**Central South University**, which provided me with solid foundations in control, optimization, and system-level analysis.
+
+``
+
+## Experience
+
+Before Shandong University, I worked as an AI Safety Scientist at ByteDance, leading safety efforts for **Doubao (豆包)**, and was a postdoctoral fellow at **The Chinese University of Hong Kong**, where I also completed my PhD. My work has appeared at **CVPR, NeurIPS, ICML, AAAI (Oral), ECCV,** and **NDSS**.
+ 
+At SDU I'll work closely with **Prof. Xiuzhen Cheng**, **Prof. Yue Zhang**, and **Prof. Xuelong Dai**.
+ 
+The group maintains active collaborations with:
+ 
+- **Industry** — Tencent, ByteDance, Meta, Huawei (for industrial-scale problems &amp; internships)
+- **Academia** — CUHK, HKUST/HKUST(GZ), UBC, Tsinghua (for joint supervision &amp; research visits)
+---
+
 
 News
 ======
@@ -66,7 +144,7 @@ Publications
 
 Services
 ======
-I serve as a reviewer of conferences/journals: **CVPR**, **NeurIPS**, **ICLR**, **ICML**, **Neurocomputing**.
+I serve as a reviewer of conferences/journals: **CVPR**, **NeurIPS**, **ICLR**, **ICML**, **ICLR**, **TPAMI**, **TIFS**, **IJCV**,**Neurocomputing**.
 
 Selected Awards and Honors
 ======
