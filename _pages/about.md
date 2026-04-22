@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Working on the Safety of Frontier AI. Looking for students who's like to join."
+title: "Working on the Safety of Frontier AI."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
