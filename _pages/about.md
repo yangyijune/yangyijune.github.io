@@ -45,6 +45,7 @@ If you like problems that live both in papers and in deployed systems, I'd love 
 - **Text-to-Image Safety** — adversarial prompts, defenses
 - **Video Generation Safety** — deepfake provenance
 - **Open-ended** — bring your own idea 💡💡💡 🤩
+  
 ---
 
 ## How to Apply
@@ -83,6 +84,7 @@ The group maintains active collaborations with:
  
 - **Industry** — Tencent, ByteDance, Meta, Huawei (for industrial-scale problems &amp; internships)
 - **Academia** — CUHK, HKUST/HKUST(GZ), UBC, Tsinghua (for joint supervision &amp; research visits)
+
 ---
 
 
