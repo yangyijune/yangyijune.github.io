@@ -57,7 +57,7 @@ Send a short email to **[ayyj.jun@gmail.com](mailto:ayyj.jun@gmail.com?subject=%
 4. *(Optional)* One paragraph on a research idea you'd want to try here
 
 
-About 
+About Me
 =====
 
 ## Education
