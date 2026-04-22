@@ -71,7 +71,6 @@ Before that, I obtained my **M.S. degree in Integrated Circuits** from
 I completed my **B.Eng. degree in Automation** at  
 **Central South University**, which provided me with solid foundations in control, optimization, and system-level analysis.
 
-``
 
 ## Experience
 
