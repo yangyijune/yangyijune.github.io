@@ -10,7 +10,7 @@ redirect_from:
 
 ## 🚀 Now recruiting — 2027 intake &amp; rolling
 
-I'm going to join the **School of Artificial Intelligence, Shandong University** as a  **Professor** (tenured), and I'm starting a new research group that lies at the intersection of **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, **AI Agents**, and **Generative Models** (Text-to-Image / Text-to-Video), with a strong emphasis on **AI safety**, **alignment**, **robustness**, and **responsible deployment**.
+I'm joining the **School of Artificial Intelligence, Shandong University** as a  **Professor** (tenured), and I'm starting a new research group that lies at the intersection of **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, **AI Agents**, and **Generative Models** (Text-to-Image / Text-to-Video), with a strong emphasis on **AI safety**, **alignment**, **robustness**, and **responsible deployment**.
 
 
 Our mission is twofold:
@@ -22,7 +22,7 @@ Our mission is twofold:
 The group is part of the **Inspur AI School at Shandong University**, benefiting from a strong academic environment and extensive industry collaborations.
 
 
-If you like problems that live both in papers and in deployed systems, I'd love to hear from you 😃.
+If you like problems that live both in papers and in real systems, I'd love to hear from you 😃.
 
 ---
  
