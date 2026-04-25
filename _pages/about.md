@@ -78,7 +78,7 @@ I completed my **B.Eng. degree in Automation** at
 
 Before Shandong University, I worked as an AI Safety Scientist at ByteDance, leading safety efforts for **Doubao (豆包)**, and was a postdoctoral fellow at **The Chinese University of Hong Kong** supervised by **Prof. Qiang Xu**, where I also completed my PhD. My work has appeared at **CVPR, NeurIPS, ICML, AAAI, ECCV,** and **NDSS**.
  
-At SDU I'll work closely with **Prof. Xiuzhen Cheng**, **Prof. Yue Zhang**, and **Prof. Xuelong Dai**.
+At SDU I'll work closely with **Prof. Xiuzhen Cheng**, **Prof. Yue Zhang**, **Prof. Minghui Xu**, and **Prof. Xuelong Dai**.
  
 The group maintains active collaborations with:
  
